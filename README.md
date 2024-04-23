@@ -1,5 +1,5 @@
 
-## Hey :D 
+## Hey :blush:
 My name is Ace and I'm a current student at the College of Engineering at Wayne State University obtaining a B.S. in Computer Science :sun_with_face:
   
 - :scroll: I’m currently working on a Machine Learning model that generates poems in the style and prose of famous artists such as Ernest Hemingway, Robert Frost and Maya Angelou. 
